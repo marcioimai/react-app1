@@ -1,0 +1,8 @@
+
+POST https://sistemas.bombeiros.ms.gov.br/ws-auth/fazer-login HTTP/1.1
+content-type: application/json
+
+{
+    "login": "024.426.361-23",
+    "senha": "asdf"
+}
